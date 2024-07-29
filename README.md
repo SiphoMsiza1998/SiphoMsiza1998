@@ -15,7 +15,7 @@ I have worked on various projects, ranging from small personal websites to more 
 Feel free to check out some of my work in the repositories section.
 
 ## Contact Me
-Email: sjmsiza15@gmail.com
+Email: sjmsiza15@gmail.com 
 LinkedIn: linkedin.com/in/sipho-jacob-570a362b8
 
 <!---
