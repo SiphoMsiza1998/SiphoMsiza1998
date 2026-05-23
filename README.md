@@ -7,7 +7,7 @@ I am a passionate software developer from South Africa with an Information Techn
 ## 🚀 About Me
 
 - 💻 Front-End & Full-Stack Developer
-- 🌍 Based in South Africa
+- 🌍 Based in Pretoria, South Africa
 - 🎯 Focused on Web Development & Software Engineering
 - 📚 Continuously learning and improving my skills
 - ⚡ Passionate about creating clean and user-friendly applications
@@ -26,11 +26,15 @@ I am a passionate software developer from South Africa with an Information Techn
 - Node.js
 - Express.js
 
+### Database
+- MongoDB
+- Firebase
+- MySQL
+
 ### Tools & Technologies
 - Git & GitHub
 - VS Code
 - Figma
-- Firebase
 
 ## 📂 Projects
 
