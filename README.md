@@ -1,24 +1,59 @@
-# Hi there, I'm Sipho MSIZA 👋
+# Hi, I'm Sipho Msiza 👋
 
-I'm a passionate front-end developer with a strong focus on creating engaging and interactive user experiences. My journey in web development has allowed me to work on various projects, honing my skills in HTML, CSS, and JavaScript.
+## Front-End & Full-Stack Developer
 
-## About Me
-🔭 I have several projects that showcase my expertise and creativity in front-end development.
-🌱 I have a solid understanding and experience with the React framework, which I use to build dynamic and responsive web applications.
+I am a passionate software developer from South Africa with an Information Technology qualification and a strong focus on modern web development. I enjoy building responsive websites, web applications, and interactive digital experiences.
 
-## Technologies & Frameworks
-HTML, CSS, JavaScript
-React - My go-to framework for building dynamic web applications
+## 🚀 About Me
 
-## Projects
-I have worked on various projects, ranging from small personal websites to more complex web applications. 
-Feel free to check out some of my work in the repositories section.
+- 💻 Front-End & Full-Stack Developer
+- 🌍 Based in South Africa
+- 🎯 Focused on Web Development & Software Engineering
+- 📚 Continuously learning and improving my skills
+- ⚡ Passionate about creating clean and user-friendly applications
 
-## Contact Me
-Email: sjmsiza15@gmail.com 
-LinkedIn: linkedin.com/in/sipho-jacob-570a362b8
+## 🛠️ Tech Stack
 
-<!---
-SiphoMsiza1998/SiphoMsiza1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Front-End
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Next.js
+- Tailwind CSS
+
+### Back-End
+- Node.js
+- Express.js
+
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- Figma
+- Firebase
+
+## 📂 Projects
+
+Here are some of the projects I work on:
+
+- 🌐 Responsive Business Websites
+- 🛒 E-Commerce Websites
+- 📱 Web Applications
+- 🎨 3D Animation Projects
+
+## 📈 Goals
+
+- Grow as a Full-Stack Software Developer
+- Build impactful digital products
+- Collaborate on exciting tech projects
+- Contribute to open-source projects
+
+## 📫 Contact Me
+
+- Email: sjmsiza15@gmail.com
+- LinkedIn: www.linkedin.com/in/siphojacobmsiza/
+- Portfolio: https://react-personal-portfolio-n91o.vercel.app/
+
+---
+
+⭐ Feel free to check out my repositories and connect with me!
